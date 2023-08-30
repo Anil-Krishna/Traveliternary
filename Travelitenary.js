@@ -3,13 +3,38 @@ const itinerarySection = document.getElementById('itinerary');
 const itineraryData = [
     {
         day: 'Day 1',
-        destination: 'City A',
-        activities: ['Sightseeing', 'Museum visit', 'Dinner at local restaurant']
+        destination: 'Bhalukpong, Arunachal Pradesh',
+        activities: ['Sightseeing along  the Brahmaputra River', 'Sessa Orchid Sanctuary', 'Eaglenest Wildlife Sanctuary', 'Dinner at local restaurant']
     },
     {
         day: 'Day 2',
-        destination: 'City B',
-        activities: ['Hiking', 'Exploring markets']
+        destination: 'Dirang, Arunachal Pradesh',
+        activities: ['Dirang Fort', 'National Research Centre On Yak', 'Dinner at Local Restaurant']
+    },
+     {
+        day: 'Day 3',
+        destination: 'Scenic Drive to Tawang',
+        activities: ['Sela Pass', 'Paradise Lake', 'Jaswant Garh War Memorial']
+    },
+     {
+        day: 'Day 4',
+        destination: 'Tawang Sightseeing',
+        activities: ['Bum La Pass', 'Madhuri Lake', 'Pankang Teng Tso Lake']
+    },
+     {
+        day: 'Day 5',
+        destination: 'Tawang',
+        activities: ['Buddhist Monastery', 'Exploring markets','Tawang War Memorial']
+    },
+     {
+        day: 'Day 6',
+        destination: 'Scenic Drive to Tezpur',
+        activities: ['Mahabhairab Temple', 'Bura-Chapori Wildlife Sanctuary']
+    },
+     {
+        day: 'Day 7',
+        destination: 'Goodbye Guwahati',
+        activities: ['scenic attractions along the way to Guwahati', 'Guwahati Airport/Railway station']
     },
     // Add more days and activities as needed
 ];
